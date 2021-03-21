@@ -1,0 +1,3 @@
+[submodule "datasets/ml-qrecc"]
+	path = datasets/ml-qrecc
+	url = https://github.com/apple/ml-qrecc
